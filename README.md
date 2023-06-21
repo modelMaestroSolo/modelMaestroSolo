@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I'm Solomon Yeboah, a passionate data analyst and machine learning enthusiast. 💻📊 ##
 
 <!--
 **modelMaestroSolo/modelMaestroSolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hello, fellow tech enthusiasts! I'm Solomon Yeboah, a passionate data analyst and machine learning enthusiast. 💻📊
 
 ### ✨ About Me ✨
 
@@ -31,5 +30,4 @@ Here are some ideas to get you started:
 
 If you're passionate about data, machine learning, or mathematical optimization, let's connect and explore the exciting world of technology together! Feel free to reach out to me on GitHub. 😄🚀
 
-📫 You can find me on GitHub: [Your GitHub Username]
 
