@@ -1,33 +1,28 @@
-### Hi there 👋! I'm Solomon Yeboah, a passionate data analyst and machine learning enthusiast. 💻📊 ##
+[![MasterHead](https://thumbs.gfycat.com/WeeLastingAbyssiniancat-max-1mb.gif)](https://rishavchanda.io)
 
-<!--
-**modelMaestroSolo/modelMaestroSolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Solomon Yeboah</h1>
+<h3 align="center">A passionate Data Scientist from Ghana</h3> 
+<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 
-### ✨ About Me ✨
+- 🔭 I’m currently working on [building a classication model for prediction customer churn](https://github.com/modelMaestroSolo/Customer_churn_classification)
 
-- 🔬 Data Analysis & ML: I dive deep into data, uncovering hidden insights and building powerful machine learning models. I love exploring complex datasets and finding innovative ways to extract meaningful knowledge from them.
+- 🌱 I’m currently learning **efficient ways of build great ML models**
 
-- 📈 Mathematical Optimization: I have a keen interest in incorporating mathematical optimization techniques into machine learning to drive optimal decision-making. By leveraging tools like Gurobi Solver and networkx, I strive to enhance the efficiency and effectiveness of data-driven solutions.
+- 🤝 I’m looking for help with **resources and project ideas in NLP and Generative AI**
 
-- 🌌 Constantly Learning: I'm always expanding my knowledge in the realm of mathematical optimization for data science. Whether it's sharpening my skills with Gurobi Solver or exploring the intricacies of networkx, I believe in continuous learning and pushing the boundaries of what's possible.
+- 👨‍💻 All of my projects are available at [https://github.com/modelMaestroSolo?tab=repositories](https://github.com/modelMaestroSolo?tab=repositories)
 
-- 💡 Favorite Quote: "In God we trust, all others must bring data." - W. Edwards Deming. This quote encapsulates my data-driven mindset and the belief that insights derived from data fuel better decision-making.
+- 💬 Ask me about **Decision Intelligence Technologies**
 
-🌟 Let's Collaborate 🌟
+- 📫 How to reach me **modelmaestrosolo@gmail.com**
 
-If you're passionate about data, machine learning, or mathematical optimization, let's connect and explore the exciting world of technology together! Feel free to reach out to me on GitHub. 😄🚀
+- ⚡ Fun fact **I love delicious food, gaming and Cassie Kozyrkov**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/solomon-yeboah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="solomon-yeboah" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
