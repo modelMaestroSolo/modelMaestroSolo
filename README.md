@@ -1,8 +1,7 @@
-[![MasterHead](https://thumbs.gfycat.com/WeeLastingAbyssiniancat-max-1mb.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Solomon Yeboah</h1>
 <h3 align="center">A passionate Data Scientist from Ghana</h3> 
-<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on [building a classication model for prediction customer churn](https://github.com/modelMaestroSolo/Customer_churn_classification)
