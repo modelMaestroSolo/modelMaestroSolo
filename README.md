@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [building a classication model for prediction customer churn](https://github.com/modelMaestroSolo/Customer_churn_classification)
+- 🔭 I’m currently working on [A machine learning for time series project - A sales forecasting project]
 
 - 🌱 I’m currently learning **efficient ways of build great ML models**
 
