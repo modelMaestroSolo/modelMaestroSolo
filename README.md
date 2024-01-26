@@ -5,8 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **A machine learning time series projects - 1. Building a predictive Hybrid model to predict sales.
-2. Analysing and Building a Predictive Model to understand and classify sensor data**
+- 🔭 I’m currently working on **A machine learning time series projects - 1. Building a predictive Hybrid model to predict sales.**
+**2. Analysing and Building a Predictive Model to understand and classify sensor data**
 
 - 🌱 I’m currently learning **efficient ways of building high-performance ML models**
 
