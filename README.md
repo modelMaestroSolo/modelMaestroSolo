@@ -1,15 +1,15 @@
 ![MasterHead](https://camo.githubusercontent.com/6830d490599548dabe7192568ede046a2249c58f3111f39a11098132cd0b1bb4/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)
 
 <h1 align="center">Hi 👋, I'm Solomon Yeboah</h1>
-<h3 align="center">A passionate Data Scientist from Ghana</h3> 
+<h3 align="center">A Certified Data Scientist from Ghana</h3> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [A machine learning for time series project - A sales forecasting project]
+- 🔭 I’m currently working on [A machine learning time series projects - 1. Building a predictive Hybrid model to predict sales. 2. Analysing and Building Predictive Model to understand and classify sensor data]
 
-- 🌱 I’m currently learning **efficient ways of build great ML models**
+- 🌱 I’m currently learning **efficient ways of building high-performance ML models**
 
-- 🤝 I’m looking for help with **resources and project ideas in NLP and Generative AI**
+- 🤝 I’m seeking recommendations on  **Recent ML and Generative AI research papers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/modelMaestroSolo?tab=repositories](https://github.com/modelMaestroSolo?tab=repositories)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **modelmaestrosolo@gmail.com**
 
-- ⚡ Fun fact **I love delicious food, gaming and Cassie Kozyrkov**
+- ⚡ Fun fact **I love delicious food, gaming, and Cassie Kozyrkov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
