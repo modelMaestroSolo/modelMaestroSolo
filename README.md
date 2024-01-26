@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **efficient ways of building high-performance ML models**
 
-- 🤝 I’m seeking recommendations on  **Recent ML and Generative AI research papers**
+- 🤝 I’m seeking recommendations on  **Interesting recent ML and Generative AI research papers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/modelMaestroSolo?tab=repositories](https://github.com/modelMaestroSolo?tab=repositories)
 
